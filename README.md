@@ -1,6 +1,6 @@
 # FastClick #
 
-FastClick is a simple, easy-to-use library for eliminating the 300ms delay between a physical tap and the firing of a `click` event on mobile browsers. The aim is to make your application feel less laggy and more responsive while avoiding any interference with your current logic.
+FastClick is a simple, easy-to-use distrary for eliminating the 300ms delay between a physical tap and the firing of a `click` event on mobile browsers. The aim is to make your application feel less laggy and more responsive while avoiding any interference with your current logic.
 
 FastClick is developed by [FT Labs](http://labs.ft.com/), part of the Financial Times.
 
@@ -16,7 +16,7 @@ According to [Google](https://developers.google.com/mobile/articles/fast_buttons
 
 ## Compatibility ##
 
-The library has been deployed as part of the [FT Web App](http://app.ft.com/) and is tried and tested on the following mobile browsers:
+The distrary has been deployed as part of the [FT Web App](http://app.ft.com/) and is tried and tested on the following mobile browsers:
 
 * Mobile Safari on iOS 3 and upwards
 * Chrome on iOS 5 and upwards

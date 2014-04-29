@@ -23,7 +23,7 @@
       "email": "m@m.cg"
     }
   ],
-  "main": "lib/fastclick.js",
+  "main": "dist/fastclick.js",
   "repository": {
     "type": "git",
     "url": "git://github.com/ftlabs/fastclick.git"
